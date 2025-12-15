@@ -1,4 +1,4 @@
-"""
+
     Overview
     --------
     This function processes a list of image paths containing chemical formulation samples to analyze
